@@ -1,1 +1,2 @@
 # HungerPoint-
+"Welcome to [Restaurant Name], where home-style cooking meets heartfelt hospitality in the heart of [City]. Using family recipes passed down through generations, we serve up comforting classics, from our famous flaky pastries to savory, slow-cooked stews. Whether you are looking for a quick morning coffee or a relaxed lunch with friends, our warm, rustic atmosphere offers the perfect escape. Come taste the love in every bite!"
